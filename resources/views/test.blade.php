@@ -73,14 +73,13 @@
                     @else
                         <a href="{{ url('/login') }}">Login</a>
                         <a href="{{ url('/register') }}">Register</a>
-						<a href="{{ url('/test') }}">Test</a>
                     @endif
                 </div>
             @endif
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Test
                 </div>
 
                 <div class="links">
