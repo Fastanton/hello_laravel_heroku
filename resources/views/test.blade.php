@@ -57,8 +57,17 @@
   </div><!-- /.container-fluid -->
 </nav>
 	</header>
-        <div class="flex-center position-ref full-height">
-
-        </div>	
+	<div class="row">
+		<div class="col-md-9 push-md-3">
+			<ul class="nav nav-pills nav-stacked">
+				<li><a href="#">Test</a></li>
+				<li><a href="#">Test</a></li>
+				<li><a href="#">Test</a></li>				
+			</ul>
+		</div>
+		<div class="col-md-3 pull-md-9">.col-md-3 .pull-md-9
+		
+		</div>
+	</div>
     </body>
 </html>
