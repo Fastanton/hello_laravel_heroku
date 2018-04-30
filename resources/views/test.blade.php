@@ -118,6 +118,19 @@
 				</div>
 			</div>
 		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<p>Test</p>
+				</div>
+				<div class="col">
+					<p>Test</p>
+				</div>
+				<div class="col">
+					<p>Test</p>
+				</div>
+			</div>
+		</div>
 	</div>
     </body>
 </html>
