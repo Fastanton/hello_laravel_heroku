@@ -50,6 +50,7 @@
 <ul class="nav nav-pills" role="tablist">
   <li role="presentation"><a href="#">Profile</a></li>
   <li role="presentation"><a href="#">Messages <span class="badge">3</span></a></li>
+  <li role="presentation"><a href="#">Settings </a></li>
   <li role="presentation"><a href="#">Log out</a></li>
 </ul>
       </ul>
@@ -94,10 +95,10 @@
 					<h4 style="text-align:center;border-bottom:1px solid #000;">Milestones</h4>
 				</div>
 				<div class="col-6 col-md-4">
-					<h4 style="text-align:center;border-bottom:1px solid #000;">Milestones</h4>
+					<h4 style="text-align:center;border-bottom:1px solid #000;">Tasks</h4>
 				</div>
 				<div class="col-6 col-md-4">
-					<h4 style="text-align:center;border-bottom:1px solid #000;">Milestones</h4>
+					<h4 style="text-align:center;border-bottom:1px solid #000;">Participant</h4>
 				</div>
 			</div>
 		</div>
