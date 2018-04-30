@@ -78,7 +78,7 @@
 			<hr>
 			<div class="row">
 				<div class="col-6" style="width: 49%;margin: 0;float: left;margin: 5px;border:1px solid #e2e2e2;border-radius:3px;">
-					<h4  style="text-align:center;margin: 0;padding: 11px;background-color:  #000;color: #fff;border-top-right-radius:  3px;border-top-left-radius:  3px;">Mail</h4>
+					<h4  style="text-align:center;margin: 0 0 10px 0;padding: 11px;background-color:  #000;color: #fff;border-top-right-radius:  3px;border-top-left-radius:  3px;">Mail</h4>
 					<ul style="list-style: none;padding: 0px 5px 0px 5px;">
 						<li style="border-bottom: 1px solid #e2e2e2;padding-left:2%;">Mail</li>
 						<li style="border-bottom: 1px solid #e2e2e2;padding-left:2%;">Mail</li>
@@ -87,7 +87,7 @@
 					</ul>
 				</div>
 				<div class="col-6" style="width: 49%;margin: 0;float: left;margin: 5px;border:1px solid #e2e2e2;border-radius:3px;">
-					<h4 style="text-align:center;margin: 0;padding: 11px;background-color:  #000;color: #fff;border-top-right-radius:  3px;border-top-left-radius:  3px;">Project Leader</h4>
+					<h4 style="text-align:center;margin: 0 0 10px 0;padding: 11px;background-color:  #000;color: #fff;border-top-right-radius:  3px;border-top-left-radius:  3px;">Project Leader</h4>
 					<p style="padding-left:2%;"><strong>Name:</strong> Lisa Ericsson</p>
 					<p style="padding-left:2%;"><strong>E-mail:</strong> Lisa.Ericsson@schedit.com</p>
 					<p style="padding-left:2%;"><strong>Phone:</strong> +4677785</p>					
@@ -96,21 +96,21 @@
 			<hr>
 			<div class="row">
 				<div class="col-6 col-md-4">
-					<h4 style="text-align:center;margin: 0;padding: 11px;background-color:  #000;color: #fff;border-top-right-radius:  3px;border-top-left-radius:  3px;">Milestones</h4>
+					<h4 style="text-align:center;margin: 0 0 10px 0;padding: 11px;background-color:  #000;color: #fff;border-top-right-radius:  3px;border-top-left-radius:  3px;">Milestones</h4>
 						<ul>
 							<li><span class="glyphicon glyphicon-ok"></span>Meeting</li>
 							<li><span class="glyphicon glyphicon-remove"></span>Design</li>							
 						</ul>
 				</div>
 				<div class="col-6 col-md-4">
-					<h4 style="text-align:center;margin: 0;padding: 11px;background-color:  #000;color: #fff;border-top-right-radius:  3px;border-top-left-radius:  3px;">Tasks</h4>
+					<h4 style="text-align:center;margin: 0 0 10px 0;padding: 11px;background-color:  #000;color: #fff;border-top-right-radius:  3px;border-top-left-radius:  3px;">Tasks</h4>
 					<ul>
 						<li>Design</li>
 						<li>Web</li>						
 					</ul>
 				</div>
 				<div class="col-6 col-md-4">
-					<h4 style="text-align:center;margin: 0;padding: 11px;background-color:  #000;color: #fff;border-top-right-radius:  3px;border-top-left-radius:  3px;">Participant</h4>
+					<h4 style="text-align:center;margin: 0 0 10px 0;padding: 11px;background-color:  #000;color: #fff;border-top-right-radius:  3px;border-top-left-radius:  3px;">Participant</h4>
 					<ul>
 						<li>Mats (Web)</li>	
 						<li>Andreas(Design)</li>	
