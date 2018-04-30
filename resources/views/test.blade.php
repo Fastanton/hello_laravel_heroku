@@ -88,9 +88,9 @@
 				</div>
 				<div class="col-6" style="width: 49%;margin: 0;float: left;margin: 5px;border:1px solid #e2e2e2;border-radius:3px;">
 					<h4 style="text-align:center;">Project Leader</h4>
-					<p>Name: Lisa Ericsson</p>
-					<p>E-mail: Lisa.Ericsson@schedit.com</p>
-					<p>Phone: +4677785</p>					
+					<p style="padding-left:2%;"><strong>Name:</strong> Lisa Ericsson</p>
+					<p style="padding-left:2%;"><strong>E-mail:</strong> Lisa.Ericsson@schedit.com</p>
+					<p style="padding-left:2%;"><strong>Phone:</strong> +4677785</p>					
 				</div>
 			</div>
 			<hr>
@@ -98,22 +98,22 @@
 				<div class="col-6 col-md-4">
 					<h4 style="text-align:center;border-bottom:1px solid #000;">Milestones</h4>
 						<ul>
-							<li><span class="glyphicon glyphicon-ok"></span>Meeting<li>
-							<li><span class="glyphicon glyphicon-remove"></span>Design<li>							
+							<li><span class="glyphicon glyphicon-ok"></span>Meeting</li>
+							<li><span class="glyphicon glyphicon-remove"></span>Design</li>							
 						</ul>
 				</div>
 				<div class="col-6 col-md-4">
 					<h4 style="text-align:center;border-bottom:1px solid #000;">Tasks</h4>
 					<ul>
-						<li>Design<li>
-						<li>Web<li>						
+						<li>Design</li>
+						<li>Web</li>						
 					</ul>
 				</div>
 				<div class="col-6 col-md-4">
 					<h4 style="text-align:center;border-bottom:1px solid #000;">Participant</h4>
 					<ul>
-						<li>Mats (Web)<li>	
-						<li>Andreas(Design)<li>	
+						<li>Mats (Web)</li>	
+						<li>Andreas(Design)</li>	
 					</ul>
 				</div>
 			</div>
