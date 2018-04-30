@@ -25,7 +25,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Brand</a>
+      <a class="navbar-brand" href="#">SCHEDIT</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -72,6 +72,18 @@
 			  <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
 				<span class="sr-only">60% Complete</span>
 			  </div>
+			</div>
+			<hr>
+			<div class="row">
+			  <div class="col-6">.
+			  <ul>
+			  <li>Mail</li>
+			  <li>Mail</li>
+			  <li>Mail</li>
+			  <li>Mail</li>
+			  </ul>
+			  </div>
+			  <div class="col-6">Tasks</div>
 			</div>
 		</div>
 	</div>
