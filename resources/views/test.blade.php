@@ -75,7 +75,7 @@
 			</div>
 			<hr>
 			<div class="row">
-			  <div class="col-6">.
+			  <div class="col-6" style="width:50%;">
 			  <ul>
 			  <li>Mail</li>
 			  <li>Mail</li>
@@ -83,7 +83,7 @@
 			  <li>Mail</li>
 			  </ul>
 			  </div>
-			  <div class="col-6">Tasks</div>
+			  <div class="col-6" style="width:50%;">Tasks</div>
 			</div>
 		</div>
 	</div>
