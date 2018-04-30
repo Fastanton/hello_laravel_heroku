@@ -66,7 +66,16 @@
     </head>
     <body>
 	<header>
-	<p class="navbar-text navbar-right">Signed in as <a href="#" class="navbar-link">Mark Otto</a></p>
+	<nav class="navbar navbar-default">
+	  <div class="container-fluid">
+		<div class="navbar-header">
+		  <a class="navbar-brand" href="#">
+			<img alt="Brand" src="http://brandmark.io/logo-rank/random/pepsi.png">
+		  </a>
+		  	<p class="navbar-text navbar-right">Signed in as <a href="#" class="navbar-link">Mark Otto</a></p>
+		</div>
+	  </div>
+	</nav>
 	</header>
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
