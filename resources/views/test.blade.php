@@ -77,7 +77,7 @@
 			<div class="row">
 				<div class="col-6" style="width: 49%;margin: 0;float: left;margin: 5px;border:1px solid #e2e2e2;border-radius:3px;">
 					<h4  style="text-align:center;">Mail</h4>
-					<ul style="list-style: none;padding:0;">
+					<ul style="list-style: none;padding: 0px 5px 0px 5px;">
 						<li style="border-bottom: 1px solid #e2e2e2;">Mail</li>
 						<li style="border-bottom: 1px solid #e2e2e2;">Mail</li>
 						<li style="border-bottom: 1px solid #e2e2e2;">Mail</li>
@@ -90,9 +90,15 @@
 			</div>
 			<hr>
 			<div class="row">
-				<div class="col-6 col-md-4">.col-6 .col-md-4</div>
-				<div class="col-6 col-md-4">.col-6 .col-md-4</div>
-				<div class="col-6 col-md-4">.col-6 .col-md-4</div>
+				<div class="col-6 col-md-4">
+					<h4 style="text-align:center;border-bottom:1px solid #000;">Milestones</h4>
+				</div>
+				<div class="col-6 col-md-4">
+					<h4 style="text-align:center;border-bottom:1px solid #000;">Milestones</h4>
+				</div>
+				<div class="col-6 col-md-4">
+					<h4 style="text-align:center;border-bottom:1px solid #000;">Milestones</h4>
+				</div>
 			</div>
 		</div>
 	</div>
