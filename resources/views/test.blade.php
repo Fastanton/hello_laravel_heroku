@@ -65,6 +65,9 @@
         </style>
     </head>
     <body>
+	<header>
+	<p class="navbar-text navbar-right">Signed in as <a href="#" class="navbar-link">Mark Otto</a></p>
+	</header>
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
                 <div class="top-right links">
@@ -76,7 +79,6 @@
                     @endif
                 </div>
             @endif
-			<p class="navbar-text navbar-right">Signed in as <a href="#" class="navbar-link">Mark Otto</a></p>
 
             <div class="content">
                 <div class="title m-b-md">
