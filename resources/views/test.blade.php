@@ -58,7 +58,7 @@
 </nav>
 	</header>
 	<div>
-		<div class="col-md-3 push-md-9">
+		<div class="col-md-3 push-md-9" style="box-shadow: 5px 10px;">
 			
 			<ul class="nav nav-pills nav-stacked">
 				<li><a href="#">Test</a></li>
@@ -66,7 +66,7 @@
 				<li><a href="#">Test</a></li>				
 			</ul>
 		</div>
-		<div class="col-md-9 pull-md-3">
+		<div class="col-md-9 pull-md-3" style="box-shadow: 5px 10px;">
 			<div>Client</div>
 			<div class="progress">
 			  <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
