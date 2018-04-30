@@ -75,7 +75,8 @@
 			</div>
 			<hr>
 			<div class="row">
-			  <div class="col-6" style="width:50%;">
+			  <div class="col-6" style="width:50%;margin: 0;float: left;">
+			  <h4  style="text-align:center;">Mail</h4>
 			  <ul>
 			  <li>Mail</li>
 			  <li>Mail</li>
@@ -83,7 +84,7 @@
 			  <li>Mail</li>
 			  </ul>
 			  </div>
-			  <div class="col-6" style="width:50%;">Tasks</div>
+			  <div class="col-6" style="width:50%;margin: 0;float: left;"><h4 style="text-align:center;">Tasks</h4></div>
 			</div>
 		</div>
 	</div>
