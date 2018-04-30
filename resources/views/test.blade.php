@@ -87,7 +87,10 @@
 					</ul>
 				</div>
 				<div class="col-6" style="width: 49%;margin: 0;float: left;margin: 5px;border:1px solid #e2e2e2;border-radius:3px;">
-					<h4 style="text-align:center;">Tasks</h4>
+					<h4 style="text-align:center;">Project Leader</h4>
+					<p>Name: Lisa Ericsson</p>
+					<p>E-mail: Lisa.Ericsson@schedit.com</p>
+					<p>Phone: +4677785</p>					
 				</div>
 			</div>
 			<hr>
