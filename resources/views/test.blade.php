@@ -76,6 +76,7 @@
                     @endif
                 </div>
             @endif
+			<p class="navbar-text navbar-right">Signed in as <a href="#" class="navbar-link">Mark Otto</a></p>
 
             <div class="content">
                 <div class="title m-b-md">
