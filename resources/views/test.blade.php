@@ -97,21 +97,21 @@
 			<div class="row">
 				<div class="col-6 col-md-4">
 					<h4 style="text-align:center;margin: 0 0 10px 0;padding: 11px;background-color:  #000;color: #fff;border-top-right-radius:  3px;border-top-left-radius:  3px;">Milestones</h4>
-						<ul>
+						<ul style="list-style: none;padding: 0px 5px 0px 5px;">
 							<li><span class="glyphicon glyphicon-ok"></span>Meeting</li>
 							<li><span class="glyphicon glyphicon-remove"></span>Design</li>							
 						</ul>
 				</div>
 				<div class="col-6 col-md-4">
 					<h4 style="text-align:center;margin: 0 0 10px 0;padding: 11px;background-color:  #000;color: #fff;border-top-right-radius:  3px;border-top-left-radius:  3px;">Tasks</h4>
-					<ul>
+					<ul style="list-style: none;padding: 0px 5px 0px 5px;">
 						<li>Design</li>
 						<li>Web</li>						
 					</ul>
 				</div>
 				<div class="col-6 col-md-4">
 					<h4 style="text-align:center;margin: 0 0 10px 0;padding: 11px;background-color:  #000;color: #fff;border-top-right-radius:  3px;border-top-left-radius:  3px;">Participant</h4>
-					<ul>
+					<ul style="list-style: none;padding: 0px 5px 0px 5px;">
 						<li>Mats (Web)</li>	
 						<li>Andreas(Design)</li>	
 					</ul>
