@@ -57,7 +57,7 @@
   </div><!-- /.container-fluid -->
 </nav>
 	</header>
-	<div class="row">
+	<div>
 		<div class="col-md-3 push-md-9">
 			
 			<ul class="nav nav-pills nav-stacked">
@@ -67,7 +67,7 @@
 			</ul>
 		</div>
 		<div class="col-md-9 pull-md-3">
-			<div class="panel panel-primary">Client</div>
+			<div>Client</div>
 			<div class="progress">
 			  <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
 				<span class="sr-only">60% Complete</span>
