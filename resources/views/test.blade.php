@@ -74,7 +74,7 @@
 				<span class="sr-only">60% Complete</span>
 			  </div>
 			</div>
-			
+			<iframe src="https://calendar.google.com/calendar/embed?src=info%40fastwebbproduktion.se&ctz=Europe%2FStockholm" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 			<hr>
 			<div class="row">
 				<div class="col-6" style="width: 49%;margin: 0;float: left;margin: 5px;border:1px solid #e2e2e2;border-radius:3px;">
