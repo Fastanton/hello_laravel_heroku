@@ -121,13 +121,13 @@
 		<div class="container">
 			<div class="row">
 				<div class="col">
-					<p>Test</p>
+				  1 of 3
+				</div>
+				<div class="col-5">
+				  2 of 3 (wider)
 				</div>
 				<div class="col">
-					<p>Test</p>
-				</div>
-				<div class="col">
-					<p>Test</p>
+				  3 of 3
 				</div>
 			</div>
 		</div>
