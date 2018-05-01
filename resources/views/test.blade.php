@@ -93,7 +93,7 @@
 							<li><span class="glyphicon glyphicon-remove"></span>Design</li>							
 						</ul>
 						<hr>
-						<div class="center-block">						
+						<div class="text-center">						
 							<button type="button" class="btn btn-default">Add Milestone</button>
 						</div>
 				</div>
@@ -104,7 +104,7 @@
 						<li>Web</li>						
 					</ul>
 					<hr>
-					<div class="center-block">					
+					<div class="text-center">					
 						<button type="button" class="btn btn-default">Add Task</button>
 					</div>
 				</div>
@@ -115,22 +115,22 @@
 						<li>Andreas(Design)</li>	
 					</ul>
 					<hr>
-					<div class="center-block">
+					<div class="text-center">
 						<button type="button" class="btn btn-default">Add Participant</button>
 					</div>
 				</div>
 		</div>
 		</div>
-		<div class="clearfix">...</div>
+		<div class="clearfix"></div>
 		<div class="container">
 			<div class="row">
-				<div class="col">
+				<div class="col-5">
 				  1 of 3
 				</div>
 				<div class="col-5">
 				  2 of 3 (wider)
 				</div>
-				<div class="col">
+				<div class="col-5">
 				  3 of 3
 				</div>
 			</div>
