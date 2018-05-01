@@ -93,7 +93,7 @@
 							<li><span class="glyphicon glyphicon-remove"></span>Design</li>							
 						</ul>
 						<hr>
-						<div class="text-center">						
+						<div class="text-center" style="margin-bottom:22px;">						
 							<button type="button" class="btn btn-default">Add Milestone</button>
 						</div>
 				</div>
@@ -104,7 +104,7 @@
 						<li>Web</li>						
 					</ul>
 					<hr>
-					<div class="text-center">					
+					<div class="text-center" style="margin-bottom:22px;">					
 						<button type="button" class="btn btn-default">Add Task</button>
 					</div>
 				</div>
@@ -115,7 +115,7 @@
 						<li>Andreas(Design)</li>	
 					</ul>
 					<hr>
-					<div class="text-center">
+					<div class="text-center" style="margin-bottom:22px;">
 						<button type="button" class="btn btn-default">Add Participant</button>
 					</div>
 				</div>
