@@ -36,10 +36,12 @@
       </ul>
       <ul class="nav navbar-nav navbar-right">
 <ul class="nav nav-pills" role="tablist">
-  <li role="presentation"><a href="#">Profile</a></li>
-  <li role="presentation"><a href="#">Messages <span class="badge">3</span></a></li>
-  <li role="presentation"><a href="#">Settings </a></li>
-  <li role="presentation"><a href="#">Log out</a></li>
+	<li role="presentation" class="active"><a href="#">Dashboard</a></li>
+	<li role="presentation"><a href="#">Client</a></li>
+	<li role="presentation"><a href="#">Profile</a></li>
+	<li role="presentation"><a href="#">Messages <span class="badge">3</span></a></li>
+	<li role="presentation"><a href="#">Settings </a></li>
+	<li role="presentation"><a href="#">Log out</a></li>
 </ul>
       </ul>
     </div><!-- /.navbar-collapse -->
