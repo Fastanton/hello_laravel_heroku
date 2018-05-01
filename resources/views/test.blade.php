@@ -59,7 +59,7 @@
 			</ul>
 		</div>
 		<div class="col-md-9 pull-md-3" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin:10px 0px 30px 0px">
-			<div><h2 style="text-align: center;">Client AB</h2></div>
+			<div><h2 style="text-align: center;">Website</h2></div>
 			<div class="progress">
 			  <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
 				<span class="sr-only">60% Complete</span>
