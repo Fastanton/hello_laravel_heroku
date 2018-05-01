@@ -92,6 +92,7 @@
 							<li><span class="glyphicon glyphicon-ok"></span>Meeting</li>
 							<li><span class="glyphicon glyphicon-remove"></span>Design</li>							
 						</ul>
+						<button type="button" class="btn btn-default">Add Milestone</button>
 				</div>
 				<div class="col-6 col-md-4" style="border:1px solid #e2e2e2;border-radius:3px;padding:0;margin: 5px;width:32.333333%;">
 					<h4 style="text-align:center;margin: 0 0 10px 0;padding: 11px;background-color:  #000;color: #fff;border-top-right-radius:  3px;border-top-left-radius:  3px;">Tasks</h4>
@@ -99,6 +100,7 @@
 						<li>Design</li>
 						<li>Web</li>						
 					</ul>
+					<button type="button" class="btn btn-default">Add Task</button>
 				</div>
 				<div class="col-6 col-md-4" style="border:1px solid #e2e2e2;border-radius:3px;padding:0;margin: 5px;width:32.333333%;">
 					<h4 style="text-align:center;margin: 0 0 10px 0;padding: 11px;background-color:  #000;color: #fff;border-top-right-radius:  3px;border-top-left-radius:  3px;">Participant</h4>
@@ -106,6 +108,7 @@
 						<li>Mats (Web)</li>	
 						<li>Andreas(Design)</li>	
 					</ul>
+					<button type="button" class="btn btn-default">Add Participant</button>
 				</div>
 			</div>
 		</div>
