@@ -32,19 +32,7 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li role="presentation" class="active"><a href="#">Dashboard</a></li>
-        <li role="presentation"><a href="#">Link</a></li>
-        <li class="dropdown" role="presentation">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="#">Action</a></li>
-            <li><a href="#">Another action</a></li>
-            <li><a href="#">Something else here</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">Separated link</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">One more separated link</a></li>
-          </ul>
-        </li>
+
       </ul>
       <ul class="nav navbar-nav navbar-right">
 <ul class="nav nav-pills" role="tablist">
@@ -61,6 +49,7 @@
 	<div>
 		<div class="col-md-3 push-md-9" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);width:20%;margin: 10px 20px 10px 20px">
 			<div><h2 style="text-align: center;">Client AB</h2></div>
+			<hr>
 			<ul class="nav nav-pills nav-stacked">
 				<li><a href="#">Test</a></li>
 				<li><a href="#">Test</a></li>
