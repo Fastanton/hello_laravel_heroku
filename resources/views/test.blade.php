@@ -17,6 +17,9 @@
 
     </head>
     <body>
+	@unless (Auth::check())
+    You are not signed in.
+	@endunless
 	<header>
 <nav class="navbar navbar-default">
   <div class="container-fluid">
