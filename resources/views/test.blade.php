@@ -17,9 +17,6 @@
 
     </head>
     <body>
-	@unless (Auth::check())
-    You are not signed in.
-	@endunless
 	<header>
 <nav class="navbar navbar-default">
   <div class="container-fluid">
@@ -31,6 +28,8 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
+	  @section('sidebar')
+	  @show
       <a class="navbar-brand" href="#">SCHEDIT</a>
     </div>
 
