@@ -1,4 +1,6 @@
 @extends('layout.master')
+@section('content')
+
     <body>
 	<header>
 <nav class="navbar navbar-default">
@@ -120,3 +122,4 @@
 		  </div>
 		</div>
 	</div>
+@endsection
