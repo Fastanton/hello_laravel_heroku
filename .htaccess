@@ -1,0 +1,9 @@
+RewriteEngine on
+RewriteRule ^(.*)$ /public/$1 [L]
+
+# Used to enhance speed
+<IfModule mod_headers.c>
+  <FilesMatch "\.(js|css|xml|gz|svg)$">
+    Header append Vary: Accept-Encoding
+  </FilesMatch>
+</IfModule>
